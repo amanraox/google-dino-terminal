@@ -31,6 +31,7 @@ Now just create build files by running following commands-
 `$ cmake -S . -B ./build`
 `$ cmake --build ./build`
 
+![Screenshot from 2024-05-04 13-28-42](https://github.com/amanraox/google-dino-terminal/assets/67886237/c2b44a49-e24d-47f9-9b7e-6eefae2b67e8)
 
 To Run the game, the build system should create a link to the running binary in the current directory so you should be able to run the game with the following command:
 
